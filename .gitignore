@@ -1,0 +1,15 @@
+# From The Depths
+
+
+## Game and User State
+GAMESTATE/
+SCREENSHOTS/
+Profile/
+Saves/
+Planet Instance Config/
+Missles/
+Race/
+Profiler.txt
+
+## Internal Backups
+*.blueprint_backup
