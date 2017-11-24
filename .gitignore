@@ -13,3 +13,4 @@ Profiler.txt
 
 ## Internal Backups
 *.blueprint_backup
+.DS_Store
